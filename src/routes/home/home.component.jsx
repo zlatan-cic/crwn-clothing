@@ -31,6 +31,8 @@ const Home = () => {
     },
   ];
 
+  
+
   return (
     <div>
       <Directory categories={categories} />
